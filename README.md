@@ -49,3 +49,4 @@ elementos HTML deberían ser mostrados.
 
 8.Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+![Pepito](https://github.com/ivaanmoreeno/M4-UF1-A2_documentarConMarkdown_ivanMoreno/blob/main/Captura%20de%20pantalla%202022-09-20%20114417.png)
