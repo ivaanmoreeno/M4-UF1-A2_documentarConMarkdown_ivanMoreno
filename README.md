@@ -31,6 +31,7 @@ presentación
 | ... | ... |
 
 6.¿Qué es HTML?
+
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 ```html
 <!DOCTYPE html>
