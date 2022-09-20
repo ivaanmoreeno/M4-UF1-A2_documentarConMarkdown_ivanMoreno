@@ -30,7 +30,7 @@ presentación
 |Google Meet     | 💻 |
 | ... | ... |
 
-6.¿Qué es HTML?
+6.¿Qué es ``HTML``?
 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 ```html
@@ -47,7 +47,7 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 </html>
 ```
 
-7.¿Qué es CSS ?
+7.¿Qué es ``CSS`` ?
 
 CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
 elementos HTML deberían ser mostrados.
