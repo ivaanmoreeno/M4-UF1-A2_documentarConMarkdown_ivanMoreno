@@ -4,13 +4,16 @@
 
 Conjunto de información que se encuentra en una dirección determinada de internet.
 
+
 2.¿Qué es un sitio web?
 
 Un sitio web, portal o cibersitio es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio en la World Wide Web dentro de Internet.
 
+
 3.¿Qué es una aplicación web?
 
 En la ingeniería de software se denomina aplicación web es aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
+
 
 4.¿Qué es una herramienta ofimática?
 
@@ -44,6 +47,7 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 ```
 
 7.¿Qué es CSS ?
+
 CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
 elementos HTML deberían ser mostrados.
 
